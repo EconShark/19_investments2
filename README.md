@@ -17,16 +17,15 @@
 
 ### 📚 Theoretical References
 
-[1] Reilly, Frank K., and Keith C. Brown (2018). *Investment Analysis and Portfolio Management*, 11th ed., Cengage.
-[2] Bodie, Kane, Marcus, Perrakis and Ryan (2017). *Investments*, 11th ed., McGraw-Hill.
+* Reilly, F. K., & Brown, K. C. (2018). *Investment analysis and portfolio management* (11th ed.). Cengage.
+* Bodie, Z., Kane, A., Marcus, A. J., Perrakis, D., & Ryan, P. J. (2017). *Investments* (11th ed.). McGraw-Hill Education.
 
 ### 💻 Applied / Technology Resources
 
-Yves Hilpisch (2020). *Artificial Intelligence in Finance: A Python-Based Guide* (O’Reilly Media)
-Yves Hilpisch (2018). *Python for Finance: Mastering Data-Driven Finance*
-*Machine Learning Mastery with Python: Understand Your Data, Create Accurate Models and Work Projects End-to-End*
+* Hilpisch, Y. (2018). *Python for finance: Mastering data-driven finance*. O’Reilly Media.
+* Hilpisch, Y. (2020). *Artificial intelligence in finance: A Python-based guide*. O’Reilly Media.
+* Géron, A. (2019). *Hands-on machine learning with Scikit-Learn, Keras, and TensorFlow* (2nd ed.). O’Reilly Media.
 
----
 
 ## 📊 2. Workload Distribution
 
